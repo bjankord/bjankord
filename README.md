@@ -5,3 +5,5 @@ I'm Brett Jankord, a Software Engineer living in the midwest who enjoys working 
 I also like to spend time riding my biking, grilling food, and playing video games.
 
 You can find me on [Twitter: @bjankord](https://twitter.com/bjankord)
+
+![A beach scene](https://media3.giphy.com/media/FjJMYGHJEBmlq/giphy.gif)
