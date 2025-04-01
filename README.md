@@ -1,8 +1,8 @@
 # Hello
 
-I'm Brett Jankord, a Lead Software Engineer living in the Midwest that enjoys working on Front-End Development, ReactJS/VueJS, Design Systems, Accessibility, Responsive Web Design, CSS, SCSS, NodeJS/ExpressJS, and open source software.
+I'm Brett Jankord, a Lead Software Engineer working at Garmin living in the Midwest. I enjoy building web applications and solving problems on the front-end/back-end/cloud. I'm also interested in ReactJS/VueJS/NodeJS, Design Systems, Accessibility, Responsive Web Design, CSS, SCSS, and open source software.
 
-I also like to spend time riding my bike through the woods, grilling food while enjoying a cold drink, and playing video games.
+When the weather is nice, I like to spend my time outdoors, riding my bike or taking my dog on a walk.
 
 You can find me on [Twitter: @bjankord](https://twitter.com/bjankord)
 
